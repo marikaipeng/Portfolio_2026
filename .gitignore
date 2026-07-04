@@ -1,0 +1,14 @@
+# Environment variables - NEVER upload to GitHub
+.env
+
+# Node dependencies - too large, installed via npm install
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db

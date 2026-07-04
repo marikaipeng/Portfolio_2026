@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1783152458438,
+    "name": "Mari Kaipeng",
+    "email": "kaipengmary01@gmail.com",
+    "message": "just testing",
+    "submitted_at": "2026-07-04T08:07:38.438Z"
+  },
+  {
+    "id": 1783152665345,
+    "name": "Mari Kaipeng",
+    "email": "kaipengmary01@gmail.com",
+    "message": "How are you doing??",
+    "submitted_at": "2026-07-04T08:11:05.345Z"
+  },
+  {
+    "id": 1783152866654,
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "message": "This is a backend test.",
+    "submitted_at": "2026-07-04T08:14:26.654Z"
+  }
+]
